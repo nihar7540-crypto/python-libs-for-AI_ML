@@ -1,0 +1,12 @@
+OrderID,Date,Product,Sales,Profit,Region
+101,2026-02-01,Product A,250.0,45.0,North
+102,2026-03-04,Product B,230.0,34.0,South
+103,2026-03-02,Product C,100.0,32.0,West
+104,2026-04-04,Product D,456.0,,East
+105,2026-02-05,Product A,234.0,42.0,South
+106,2026-02-01,Product D,98.0,50.0,West
+107,2026-04-07,Product E,,22.0,East
+108,2026-03-03,Product A,89.0,34.0,North
+109,2026-02-01,Product B,680.0,,East
+110,2026-03-14,Product C,250.0,12.0,South
+111,2026-07-07,Product E,,,South
